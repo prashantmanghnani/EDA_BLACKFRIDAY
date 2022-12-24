@@ -1,6 +1,3 @@
-# EDA_BLACKFRIDAY
-
-
 Welcome to the EDA and Feature Engineering project for the Black Friday dataset! This project aims to explore and analyze the Black Friday dataset, and to perform feature engineering on the data to prepare it for machine learning models.
 
 Dataset
